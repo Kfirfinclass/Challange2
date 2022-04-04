@@ -1,33 +1,39 @@
-# Project Title
+# Loan Qualifiyer Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This application was designed to imporve the loan qualification process, with an added feature allowing the user to save the qualifying loans as a new CSV file, so they are easily shared as a spreadsheet. 
+
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+Please check requirments.txt file for needed libraries.
+    They can be installed using : pip install -r requirements.txt
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Please check requirments.txt file for needed libraries.
+    They can be installed using : pip install -r requirements.txt
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+The code is straightforward and easy to use. Once the csv file path is entered, a few questions will be asked about the applicant to find and match the right loans. 
+Once the loans have been filtered a new prompt will allow the user to save it as a new file.
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Kfir Bar
+kfirfinclass@gmail.com
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+This code is exclusive to those who are provided a direct access. A user-key feature can be added later.
+
